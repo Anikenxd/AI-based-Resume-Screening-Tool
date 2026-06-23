@@ -72,6 +72,8 @@ Measures how closely a resume matches the job description.
 
 Add screenshots of:
 
+<img width="1920" height="1080" alt="Screenshot 2026-06-23 191822" src="https://github.com/user-attachments/assets/f668b72b-003e-475c-b83c-714918fa03da" />
+
 <img width="1920" height="1080" alt="Screenshot 2026-06-23 191911" src="https://github.com/user-attachments/assets/6bb13e56-08e4-4319-9219-838345bb4f65" />
 
 
